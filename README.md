@@ -26,4 +26,4 @@ Got domain information via sharphound -> Pwn the domain
 
 ### 4. Mitigations and Security Recommendations (Huy)
 
-Digital and Physical Security Recommendations 
+Digital and Physical Security Recommendations from all 3 parts. Requires extensive work with the one who wrote the 3 parts.
